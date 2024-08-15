@@ -1,4 +1,4 @@
-![Header](./https://github.com/PankajHarabhare/Pankaj-Harabhare/blob/main/github-header-image%20(2).png)
+![logo](https://github.com/PankajHarabhare/Pankaj-Harabhare/blob/main/github-header-image%20(2).png)
 <h1 align="center">Hi 👋, I'm Pankaj Harabhare</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
